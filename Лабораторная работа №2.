@@ -1,0 +1,7 @@
+a = 10
+b = 7
+if a > b: 
+    result = a - b 
+else:
+    result = b - a
+print("Выход:", result)
